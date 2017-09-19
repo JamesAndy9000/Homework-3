@@ -30,7 +30,6 @@ Speed of electronic Signals
 ===========================
 
 * How far an electronic signal can move through a wire:
-
 	- In one nanosecond = <11.803> inches ((SoL in meters per second) \* (10^-9) \* (39.37)) (Linux calculator stinks.)
 	- In one microsecond = <983.569> feet ((SoL in miles per second) \* (10^-6) \* (5280))
 	- In one millisecond = <186.282> miles ((SoL in miles per second) / 1000)
